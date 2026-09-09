@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: LicenseRef-PolyForm-Internal-Use-1.0.0 -->
+<!-- Copyright (C) 2006-2026 DIY Accounting Limited -->
 # AWS Resources — Root Account (887764105431)
 
 Catalogued from AWS Resource Explorer on 2026-02-21. Cleanup performed same day.

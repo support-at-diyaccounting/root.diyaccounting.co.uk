@@ -1,4 +1,6 @@
-#!/usr/bin/env bash
+#!/bin/bash
+# SPDX-License-Identifier: LicenseRef-PolyForm-Internal-Use-1.0.0
+# Copyright (C) 2006-2026 DIY Accounting Limited
 # Export Route53 hosted zone records to annotated files.
 #
 # Outputs:
