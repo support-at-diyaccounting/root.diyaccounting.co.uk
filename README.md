@@ -232,4 +232,4 @@ aws --profile management cloudformation describe-stacks --stack-name root-RootDn
 
 ## License
 
-AGPL-3.0
+Source available under the PolyForm Internal Use License 1.0.0, which permits use for your own accounts or clients' accounts if you are an accountant. Copyright (C) 2006-2026 DIY Accounting Limited. See `LICENSE`.

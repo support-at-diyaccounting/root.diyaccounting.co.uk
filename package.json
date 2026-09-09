@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Root account DNS and holding page management for diyaccounting.co.uk",
   "private": true,
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "build": "./mvnw clean verify",
     "cdk:synth": "cd cdk-root && npx cdk synth --require-approval never --ci true --strict --validation && cd ..",
