@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: LicenseRef-PolyForm-Internal-Use-1.0.0 -->
+<!-- Copyright (C) 2006-2026 DIY Accounting Limited -->
+
 # root.diyaccounting.co.uk
 
 Root AWS account (887764105431) infrastructure for diyaccounting.co.uk. Manages the Route53 hosted zone, DNS alias records, cross-account delegation role, and the holding/maintenance page.
@@ -232,4 +235,4 @@ aws --profile management cloudformation describe-stacks --stack-name root-RootDn
 
 ## License
 
-AGPL-3.0
+Source available under the PolyForm Internal Use License 1.0.0, which permits use for your own accounts or clients' accounts if you are an accountant. Copyright (C) 2006-2026 DIY Accounting Limited. See `LICENSE`.
