@@ -1,6 +1,6 @@
 #!/bin/bash
-# SPDX-License-Identifier: AGPL-3.0-only
-# Copyright (C) 2025-2026 DIY Accounting Ltd
+# SPDX-License-Identifier: LicenseRef-PolyForm-Internal-Use-1.0.0
+# Copyright (C) 2006-2026 DIY Accounting Limited
 #
 # Add or remove alternate domain names on a CloudFront distribution and wait for the change to
 # deploy. Used by deploy-holding.yml to move the live aliases between the gateway distribution and
